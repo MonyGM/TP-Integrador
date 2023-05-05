@@ -1,0 +1,44 @@
+.carousel-caption
+{ 
+    color: whitesmoke;
+    font-size: 1.2em;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: right;
+    margin-left: 500px;
+    width: 500px;
+    height: 500px;
+}
+
+.carousel img 
+{
+    filter: brightness(50%);
+}
+
+.col-center
+{
+    float: none;
+    margin: 0 auto;
+    
+}
+.columnas
+{
+    width: 80%;
+    margin: auto;
+}
+form
+{
+    width: 60%;
+    margin: auto;
+    align-content: center;
+    
+}
+footer
+{
+    
+    background-image: linear-gradient(rgb(15, 15, 70), rgb(76, 76, 94));
+}
+.deco
+{
+    border-bottom:2px dotted #01011a;
+    text-decoration:none;
+}
